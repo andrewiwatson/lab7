@@ -10,5 +10,6 @@
 <li><a href="lab5/index.html">Lab 5 - Mobile View</a></li>
 <li><a href="lab6/index.html">Lab 6 - Tab & Desktop</a></li>
 <li><a href="lab7/index.html">Lab 7 - Audio, Video and a Table</a></li>
+<li><a href="final/index.html">Final 2021 - Spartan Baits</a></li>
 </ul>
 
